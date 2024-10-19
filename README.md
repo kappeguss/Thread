@@ -1,0 +1,2 @@
+# Thread
+Thread e Parametri
